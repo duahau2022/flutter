@@ -99,3 +99,24 @@ https://code-maven.com/slides/dart-programming/extending-class
 # Build Flutter
 for that you need to run flutter build ios --release before you archive the app.
 This is a known issue.
+
+# Inapp purchase
+- Validating Receipts With the App Store: https://developer.apple.com/library/archive/releasenotes/General/ValidateAppStoreReceipt/Chapters/ValidateRemotely.html#//apple_ref/doc/uid/TP40010573-CH104-SW1
+- set up apk android: https://stackoverflow.com/a/35132936/10819917
+
+# One Signal
+https://documentation.onesignal.com/docs/generate-an-ios-push-certificate
+
+# Android: install .apk programmatically [duplicate]
+https://stackoverflow.com/a/4969421
+
+# Localizing the Cut|Copy|Paste menu on iOS
+https://stackoverflow.com/a/11282184/10819917
+
+# How to check internet connection is online /offline in application background?
+
+# How to use BottomNavigationBar with Navigator?
+https://stackoverflow.com/a/45992604/10819917
+
+# Flutter: How to hide or show more text within certain length
+https://stackoverflow.com/a/61379429
