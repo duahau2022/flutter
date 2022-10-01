@@ -1,3 +1,6 @@
+# How to hide Android StatusBar in Flutter
+- https://stackoverflow.com/questions/43877288/how-to-hide-android-statusbar-in-flutter
+
 #  Hide bottom navigation bar on scroll down and vice versa
 https://stackoverflow.com/questions/54414268/hide-bottom-navigation-bar-on-scroll-down-and-vice-versa
 
